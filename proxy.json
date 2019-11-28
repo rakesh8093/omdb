@@ -1,0 +1,20 @@
+{
+  "/getmovie":{
+      "target":"http://localhost:1000",
+      "secure":true
+  },
+
+  "/getmovieId":
+    {
+      "target":"http://localhost:1000",
+      "secure":true
+    },
+    "/sendsequles":
+    {
+      "target":"http://localhost:1000",
+      "secure":true
+
+    }
+
+
+}
